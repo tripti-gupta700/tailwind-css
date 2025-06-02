@@ -24,7 +24,7 @@ js-docs-website/
 ## ✅ How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/tripti-gupta700/js-docs-website.git
+   git clone https://github.com/tripti-gupta700/tailwind-css.git
 Open index.html in your browser.
 
 💡 Future Improvements
